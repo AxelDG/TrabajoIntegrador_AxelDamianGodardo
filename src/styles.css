@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  background-color: #d5f5e3;
+}
+
+.inicio {
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
+  height: 80%;
+  border: 1px solid;
+  border-color: #d5f5e3;
+  background-color: white;
+  margin-top: 4%;
+}
+
+h1 {
+  font-size: xx-large;
+  color: lightseagreen;
+}
+
+h2 {
+  font-size: x-large;
+  color: lightseagreen;
+}
+
+p {
+  font-size: x-large;
+}
+
+.derechos {
+  text-align: center;
+  width: 100%;
+  border: 1px solid;
+  border-color: #d5f5e3;
+  background-color: white;
+  margin-top: 12%;
+}
+
+.carrito {
+  text-align: center;
+  margin-top: 8%;
+}
